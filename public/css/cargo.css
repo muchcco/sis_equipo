@@ -1,0 +1,16 @@
+
+.contenido{
+    margin-top: 5em;
+    display: flex;
+    
+    justify-content: center;
+}
+
+.contenido-body{
+    padding: 1em 1em 1em 1em;
+    background: #fff;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
